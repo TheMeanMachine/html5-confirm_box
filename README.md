@@ -15,6 +15,9 @@ It's fully customisable! The buttons, title, content and actions on either butto
 ```
 ### How to use:
 
+Implement the javascript below and it will create a confirm box.
+
+```javascript
 confirmThis("Title here", "Content here","CANCEL", "CONTINUE",function(){
     //Continue code here
     
@@ -22,3 +25,4 @@ confirmThis("Title here", "Content here","CANCEL", "CONTINUE",function(){
     //Cancel code here
     
 });
+```

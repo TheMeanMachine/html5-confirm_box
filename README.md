@@ -10,6 +10,9 @@ It's fully customisable! The buttons, title, content and actions on either butto
 
 - Step 2: add the following tags to your HTML:
 ```html
+<!--Google material icons-->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
+
 <link rel="stylesheet" type="text/css" href="path/to/confirm.css">
 <script src="path/to/confirm.js"></script>
 ```
@@ -25,4 +28,11 @@ confirmThis("Title here", "Content here","CANCEL", "CONTINUE",function(){
     //Cancel code here
     
 });
+```
+#### Notes
+
+Google Material icons are needed. This is only used for the 'X' close button on the top left. Should you wish to remove this, and dependancy on Google Material icons, the line needed to be removed is line 47:
+
+```javascript
+cfTop.appendChild(cfclose);
 ```

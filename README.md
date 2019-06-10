@@ -6,6 +6,7 @@ It's fully customisable! The buttons, title, content and actions on either butto
 
 ### Demo
 Go to the below codepen link to see a demo of the confirmation box
+
 https://codepen.io/TheMeanMachine/pen/GaVVve
 
 ### How to implement:

@@ -4,6 +4,10 @@
 It's fully customisable! The buttons, title, content and actions on either button can be all changed.
 ![example of confirm box](https://i.imgur.com/0fqY2cc.png)
 
+### Demo
+Go to the below codepen link to see a demo of the confirmation box
+https://codepen.io/TheMeanMachine/pen/GaVVve
+
 ### How to implement:
 
 - Step 1: download both the confirm.css and confirm.js

@@ -31,7 +31,7 @@
     overflow: hidden;
 }
 
-.cftop{
+.cfTop{
     height: 40px;
     width: 100%;
     margin-bottom: 10px;
@@ -39,14 +39,14 @@
     background-color: whitesmoke;
 }
 
-.cftitle{
+.cfTitle{
     text-align: center;
     line-height: 40px;
     font-size: 1.3em;
     margin: 0;
 }
 
-.cfclose{
+.cfClose{
     position: absolute;
     margin-left: 10px;
     margin-top: 7.5px;
